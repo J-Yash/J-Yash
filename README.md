@@ -1,4 +1,5 @@
-### Hi there, it is me Yash! 👋
+### Hi There!👋
+🌱 Find me in this [corner of the web](https://j-yash.github.io).
 
 <!--
 **J-Yash/J-Yash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
