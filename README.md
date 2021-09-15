@@ -1,6 +1,6 @@
 ### Hi There!👋
 
-⚡ I'm a Research Software Engineer - Machine Learning at Cyberinfrastructure for Network Science Center, Indiana University - Bloomington.
+⚡ I'm a Research Software Engineer - Machine Learning at [Cyberinfrastructure for Network Science Center](https://cns.iu.edu), Indiana University - Bloomington.
 
 🌱 Find me in this [corner of the web](https://j-yash.github.io).
 
